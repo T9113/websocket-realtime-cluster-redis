@@ -1,0 +1,8 @@
+{
+  "name": "websocket-realtime-cluster",
+  "dependencies": {
+    "socket.io": "^4.7.2",
+    "@socket.io/redis-adapter": "^8.2.1",
+    "redis": "^4.6.10"
+  }
+}
